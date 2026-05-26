@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity Metrics</string>
+    <string name="accessibility_message">Monitors foreground apps for logging.</string>
+</resources>
