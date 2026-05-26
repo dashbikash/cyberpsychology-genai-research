@@ -1,0 +1,31 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1778869800000,Teams,com.microsoft.teams,Productivity,GAINED
+1778870258523,Teams,com.microsoft.teams,Productivity,LOST
+1778880971772,Lens,com.google.ar.lens,Productivity,GAINED
+1778882504582,Lens,com.google.ar.lens,Productivity,LOST
+1778890544260,Excel,com.microsoft.office.excel,Productivity,GAINED
+1778891822770,Excel,com.microsoft.office.excel,Productivity,LOST
+1778902306973,Udemy Business,com.udemy.android.ufb,Productivity,GAINED
+1778903870287,Udemy Business,com.udemy.android.ufb,Productivity,LOST
+1778904735674,Udemy Business,com.udemy.android.ufb,Productivity,GAINED
+1778905024780,Udemy Business,com.udemy.android.ufb,Productivity,LOST
+1778905741098,Drive,com.google.android.apps.docs,Productivity,GAINED
+1778906956966,Drive,com.google.android.apps.docs,Productivity,LOST
+1778907776404,Rovo,com.atlassian.android.rovo.core,Productivity,GAINED
+1778909445306,Rovo,com.atlassian.android.rovo.core,Productivity,LOST
+1778912234604,Meet,com.google.android.apps.tachyon,Social,GAINED
+1778912815923,Meet,com.google.android.apps.tachyon,Social,LOST
+1778917358354,Messages,com.android.mms,Undefined,GAINED
+1778917462996,Messages,com.android.mms,Undefined,LOST
+1778927021718,Camera,com.oplus.camera,Undefined,GAINED
+1778928187101,Camera,com.oplus.camera,Undefined,LOST
+1778928638920,Discord,com.discord,Social,GAINED
+1778928782976,Discord,com.discord,Social,LOST
+1778936703563,JioHotstar,in.startv.hotstar,Undefined,GAINED
+1778936787262,JioHotstar,in.startv.hotstar,Undefined,LOST
+1778947007333,HDFC Bank App,com.hdfcbank.android.now,Productivity,GAINED
+1778947038422,HDFC Bank App,com.hdfcbank.android.now,Productivity,LOST
+1778950195325,SuperVPN Pro,com.jrzheng.supervpnpayment,Productivity,GAINED
+1778950754096,SuperVPN Pro,com.jrzheng.supervpnpayment,Productivity,LOST
+1778956158781,Udemy Business,com.udemy.android.ufb,Productivity,GAINED
+1778956199000,Udemy Business,com.udemy.android.ufb,Productivity,LOST

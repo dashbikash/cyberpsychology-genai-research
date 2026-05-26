@@ -1,0 +1,29 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1778610600000,Goibibo,com.goibibo,Undefined,GAINED
+1778611770897,Goibibo,com.goibibo,Undefined,LOST
+1778615107430,Messages,com.android.mms,Undefined,GAINED
+1778616356408,Messages,com.android.mms,Undefined,LOST
+1778626851065,Compass,com.coloros.compass2,Undefined,GAINED
+1778627619239,Compass,com.coloros.compass2,Undefined,LOST
+1778635419472,Telegram,org.telegram.messenger,Social,GAINED
+1778636104666,Telegram,org.telegram.messenger,Social,LOST
+1778640443266,Docs,com.google.android.apps.docs.editors.docs,Productivity,GAINED
+1778641412864,Docs,com.google.android.apps.docs.editors.docs,Productivity,LOST
+1778647629679,NotebookLM,com.google.android.apps.labs.language.tailwind,Productivity,GAINED
+1778648104907,NotebookLM,com.google.android.apps.labs.language.tailwind,Productivity,LOST
+1778652850318,Google,com.google.android.googlequicksearchbox,Productivity,GAINED
+1778653976206,Google,com.google.android.googlequicksearchbox,Productivity,LOST
+1778654195491,Contacts,com.android.contacts,Undefined,GAINED
+1778654760722,Contacts,com.android.contacts,Undefined,LOST
+1778657266747,Photos,com.google.android.apps.photos,Image,GAINED
+1778658379302,Photos,com.google.android.apps.photos,Image,LOST
+1778668287868,YONO SBI,com.sbi.lotusintouch,Productivity,GAINED
+1778669577518,YONO SBI,com.sbi.lotusintouch,Productivity,LOST
+1778679775658,Threads,com.instagram.barcelona,Social,GAINED
+1778680781577,Threads,com.instagram.barcelona,Social,LOST
+1778681382850,Threads,com.instagram.barcelona,Social,GAINED
+1778682062969,Threads,com.instagram.barcelona,Social,LOST
+1778685832191,Slides,com.google.android.apps.docs.editors.slides,Productivity,GAINED
+1778685899022,Slides,com.google.android.apps.docs.editors.slides,Productivity,LOST
+1778695858863,Odisha Yatri,in.mobility.odishayatri,Undefined,GAINED
+1778696999000,Odisha Yatri,in.mobility.odishayatri,Undefined,LOST

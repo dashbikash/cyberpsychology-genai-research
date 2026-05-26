@@ -1,0 +1,35 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1779215400000,Gmail,com.google.android.gm,Social,GAINED
+1779216211709,Gmail,com.google.android.gm,Social,LOST
+1779219993965,SumTotal,com.sumtotal.mobileapp,Productivity,GAINED
+1779221423278,SumTotal,com.sumtotal.mobileapp,Productivity,LOST
+1779223272522,Axis Mobile,com.axis.mobile,Productivity,GAINED
+1779224185061,Axis Mobile,com.axis.mobile,Productivity,LOST
+1779230133865,Settings,com.android.settings,Undefined,GAINED
+1779231520316,Settings,com.android.settings,Undefined,LOST
+1779234414649,Drive,com.google.android.apps.docs,Productivity,GAINED
+1779234861627,Drive,com.google.android.apps.docs,Productivity,LOST
+1779236523669,JioCinema,com.jio.media.ondemand,Undefined,GAINED
+1779238075199,JioCinema,com.jio.media.ondemand,Undefined,LOST
+1779245778267,Slides,com.google.android.apps.docs.editors.slides,Productivity,GAINED
+1779245917205,Slides,com.google.android.apps.docs.editors.slides,Productivity,LOST
+1779251930898,Drive,com.google.android.apps.docs,Productivity,GAINED
+1779252517882,Drive,com.google.android.apps.docs,Productivity,LOST
+1779257314753,IRCTC Rail Connect,cris.org.in.prs.ima,Undefined,GAINED
+1779257509360,IRCTC Rail Connect,cris.org.in.prs.ima,Undefined,LOST
+1779261733648,Recorder,com.coloros.soundrecorder,Undefined,GAINED
+1779262707618,Recorder,com.coloros.soundrecorder,Undefined,LOST
+1779263639251,UMANG,in.gov.umang.negd.g2c,Productivity,GAINED
+1779265145731,UMANG,in.gov.umang.negd.g2c,Productivity,LOST
+1779268939039,Brave,com.brave.browser,Social,GAINED
+1779269895889,Brave,com.brave.browser,Social,LOST
+1779271084391,JioHotstar,in.startv.hotstar,Undefined,GAINED
+1779272655377,JioHotstar,in.startv.hotstar,Undefined,LOST
+1779275832468,Word,com.microsoft.office.word,Productivity,GAINED
+1779276275549,Word,com.microsoft.office.word,Productivity,LOST
+1779280099276,JioCinema,com.jio.media.ondemand,Undefined,GAINED
+1779281784732,JioCinema,com.jio.media.ondemand,Undefined,LOST
+1779291500404,IRCTC Rail Connect,cris.org.in.prs.ima,Undefined,GAINED
+1779292959177,IRCTC Rail Connect,cris.org.in.prs.ima,Undefined,LOST
+1779299235039,Recorder,com.coloros.soundrecorder,Undefined,GAINED
+1779300638493,Recorder,com.coloros.soundrecorder,Undefined,LOST

@@ -1,0 +1,27 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1779129000000,Goibibo,com.goibibo,Undefined,GAINED
+1779130532163,Goibibo,com.goibibo,Undefined,LOST
+1779140482896,Ola,com.olacabs.customer,Maps,GAINED
+1779141449776,Ola,com.olacabs.customer,Maps,LOST
+1779143706950,HDFC Bank App,com.hdfcbank.android.now,Productivity,GAINED
+1779143942952,HDFC Bank App,com.hdfcbank.android.now,Productivity,LOST
+1779146840864,X,com.twitter.android,News,GAINED
+1779147556676,X,com.twitter.android,News,LOST
+1779149578057,SuperVPN Pro,com.jrzheng.supervpnpayment,Productivity,GAINED
+1779151203757,SuperVPN Pro,com.jrzheng.supervpnpayment,Productivity,LOST
+1779157279073,HDFC Bank,com.snapwork.hdfc,Productivity,GAINED
+1779157346197,HDFC Bank,com.snapwork.hdfc,Productivity,LOST
+1779167829934,Chat,com.google.android.apps.dynamite,Productivity,GAINED
+1779169623556,Chat,com.google.android.apps.dynamite,Productivity,LOST
+1779174026118,Maps,com.google.android.apps.maps,Undefined,GAINED
+1779175510947,Maps,com.google.android.apps.maps,Undefined,LOST
+1779185274219,Teams,com.microsoft.teams,Productivity,GAINED
+1779185830451,Teams,com.microsoft.teams,Productivity,LOST
+1779194599919,Ama Bus,com.chalo.crut,Maps,GAINED
+1779194656984,Ama Bus,com.chalo.crut,Maps,LOST
+1779196317149,NotebookLM,com.google.android.apps.labs.language.tailwind,Productivity,GAINED
+1779196606319,NotebookLM,com.google.android.apps.labs.language.tailwind,Productivity,LOST
+1779204642496,NotebookLM,com.google.android.apps.labs.language.tailwind,Productivity,GAINED
+1779205017635,NotebookLM,com.google.android.apps.labs.language.tailwind,Productivity,LOST
+1779213845459,Uber,com.ubercab,Maps,GAINED
+1779215216452,Uber,com.ubercab,Maps,LOST

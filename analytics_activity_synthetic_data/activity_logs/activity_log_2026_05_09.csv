@@ -1,0 +1,25 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1778265000000,Photos,com.google.android.apps.photos,Image,GAINED
+1778265099278,Photos,com.google.android.apps.photos,Image,LOST
+1778268303235,Hill Climb Racing 2,com.fingersoft.hcr2,Game,GAINED
+1778268632656,Hill Climb Racing 2,com.fingersoft.hcr2,Game,LOST
+1778272351149,MyJio,com.jio.myjio,Productivity,GAINED
+1778272821537,MyJio,com.jio.myjio,Productivity,LOST
+1778283466631,Maps,com.google.android.apps.maps,Undefined,GAINED
+1778284329555,Maps,com.google.android.apps.maps,Undefined,LOST
+1778292542805,Tata 1mg,com.aranoah.healthkart.plus,Undefined,GAINED
+1778293835189,Tata 1mg,com.aranoah.healthkart.plus,Undefined,LOST
+1778302653028,Chrome,com.android.chrome,Undefined,GAINED
+1778303329562,Chrome,com.android.chrome,Undefined,LOST
+1778307723151,HDFC Bank,com.snapwork.hdfc,Productivity,GAINED
+1778308624130,HDFC Bank,com.snapwork.hdfc,Productivity,LOST
+1778312258602,Ola,com.olacabs.customer,Maps,GAINED
+1778312961461,Ola,com.olacabs.customer,Maps,LOST
+1778320171061,gCMOB,com.mm.android.direct.g_CMOB_XU,Productivity,GAINED
+1778321264806,gCMOB,com.mm.android.direct.g_CMOB_XU,Productivity,LOST
+1778329688437,BSNL Selfcare,com.digital.bsnl.selfcare,Productivity,GAINED
+1778330210039,BSNL Selfcare,com.digital.bsnl.selfcare,Productivity,LOST
+1778334312868,Settings,com.android.settings,Undefined,GAINED
+1778336084386,Settings,com.android.settings,Undefined,LOST
+1778344699455,Settings,com.android.settings,Undefined,GAINED
+1778346248967,Settings,com.android.settings,Undefined,LOST

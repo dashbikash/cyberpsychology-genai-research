@@ -1,0 +1,35 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1778351400000,Truemeds,com.intellihealth.truemeds,Undefined,GAINED
+1778352304135,Truemeds,com.intellihealth.truemeds,Undefined,LOST
+1778354311109,super.money,money.super.payments,Productivity,GAINED
+1778354448527,super.money,money.super.payments,Productivity,LOST
+1778359937507,Gmail,com.google.android.gm,Social,GAINED
+1778360485783,Gmail,com.google.android.gm,Social,LOST
+1778369023744,Zoom,us.zoom.videomeetings,Productivity,GAINED
+1778369988121,Zoom,us.zoom.videomeetings,Productivity,LOST
+1778372653856,BSNL Selfcare,com.digital.bsnl.selfcare,Productivity,GAINED
+1778374354817,BSNL Selfcare,com.digital.bsnl.selfcare,Productivity,LOST
+1778379180136,NotebookLM,com.google.android.apps.labs.language.tailwind,Productivity,GAINED
+1778379836662,NotebookLM,com.google.android.apps.labs.language.tailwind,Productivity,LOST
+1778380980297,Settings,com.android.settings,Undefined,GAINED
+1778381686136,Settings,com.android.settings,Undefined,LOST
+1778382247010,Videos (System),com.coloros.video,Undefined,GAINED
+1778384021872,Videos (System),com.coloros.video,Undefined,LOST
+1778387291016,Camera,com.oplus.camera,Undefined,GAINED
+1778387323691,Camera,com.oplus.camera,Undefined,LOST
+1778398062924,Meet,com.google.android.apps.tachyon,Social,GAINED
+1778398556344,Meet,com.google.android.apps.tachyon,Social,LOST
+1778404249142,Files by Google,com.google.android.apps.nbu.files,Productivity,GAINED
+1778405009851,Files by Google,com.google.android.apps.nbu.files,Productivity,LOST
+1778406125878,AWS Console,com.amazon.aws.console.mobile,Productivity,GAINED
+1778407746813,AWS Console,com.amazon.aws.console.mobile,Productivity,LOST
+1778409198383,Arattai,com.aratai.chat,Social,GAINED
+1778410712698,Arattai,com.aratai.chat,Social,LOST
+1778417061993,Ama Bus,com.chalo.crut,Maps,GAINED
+1778418426030,Ama Bus,com.chalo.crut,Maps,LOST
+1778419175288,Uber,com.ubercab,Maps,GAINED
+1778420651903,Uber,com.ubercab,Maps,LOST
+1778428216500,Digilocker,com.digilocker.android,Productivity,GAINED
+1778429732273,Digilocker,com.digilocker.android,Productivity,LOST
+1778436632710,Paytm,net.one97.paytm,Productivity,GAINED
+1778437541782,Paytm,net.one97.paytm,Productivity,LOST

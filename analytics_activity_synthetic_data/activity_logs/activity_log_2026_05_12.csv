@@ -1,0 +1,31 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1778524200000,Proton Mail,ch.protonmail.android,Social,GAINED
+1778525394635,Proton Mail,ch.protonmail.android,Social,LOST
+1778527003259,MakeMyTrip,com.makemytrip,Undefined,GAINED
+1778527820210,MakeMyTrip,com.makemytrip,Undefined,LOST
+1778532467454,OneDrive,com.microsoft.skydrive,Productivity,GAINED
+1778533215184,OneDrive,com.microsoft.skydrive,Productivity,LOST
+1778534222698,YONO SBI,com.sbi.lotusintouch,Productivity,GAINED
+1778535334649,YONO SBI,com.sbi.lotusintouch,Productivity,LOST
+1778542028668,My Context,me.dashbikash.dashvpnservice,Undefined,GAINED
+1778543568607,My Context,me.dashbikash.dashvpnservice,Undefined,LOST
+1778549045592,davaindia,com.davaindia,Undefined,GAINED
+1778549781719,davaindia,com.davaindia,Undefined,LOST
+1778554395584,Uber,com.ubercab,Maps,GAINED
+1778555166245,Uber,com.ubercab,Maps,LOST
+1778557317595,Clock,com.coloros.alarmclock,Undefined,GAINED
+1778558992276,Clock,com.coloros.alarmclock,Undefined,LOST
+1778569188652,PhonePe,com.phonepe.app,Productivity,GAINED
+1778570800355,PhonePe,com.phonepe.app,Productivity,LOST
+1778572253978,Flipkart,com.flipkart.android,Undefined,GAINED
+1778572678626,Flipkart,com.flipkart.android,Undefined,LOST
+1778579165833,WhatsApp,com.whatsapp,Social,GAINED
+1778580064171,WhatsApp,com.whatsapp,Social,LOST
+1778585007129,Proton Mail,ch.protonmail.android,Social,GAINED
+1778585540683,Proton Mail,ch.protonmail.android,Social,LOST
+1778591871232,Calculator,com.coloros.calculator,Undefined,GAINED
+1778592315395,Calculator,com.coloros.calculator,Undefined,LOST
+1778593136032,Cognizant TalRight Recruit,com.talview.recruit.cognizant,Productivity,GAINED
+1778594620947,Cognizant TalRight Recruit,com.talview.recruit.cognizant,Productivity,LOST
+1778604119090,Photos,com.google.android.apps.photos,Image,GAINED
+1778605207791,Photos,com.google.android.apps.photos,Image,LOST

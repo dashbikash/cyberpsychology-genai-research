@@ -1,0 +1,31 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1778697000000,My Context,me.dashbikash.dashvpnservice,Undefined,GAINED
+1778697716377,My Context,me.dashbikash.dashvpnservice,Undefined,LOST
+1778704308875,Axis Mobile,com.axis.mobile,Productivity,GAINED
+1778705293501,Axis Mobile,com.axis.mobile,Productivity,LOST
+1778708685201,MakeMyTrip,com.makemytrip,Undefined,GAINED
+1778710061109,MakeMyTrip,com.makemytrip,Undefined,LOST
+1778716376962,Photos,com.google.android.apps.photos,Image,GAINED
+1778717049937,Photos,com.google.android.apps.photos,Image,LOST
+1778723099100,Zoom,us.zoom.videomeetings,Productivity,GAINED
+1778724069904,Zoom,us.zoom.videomeetings,Productivity,LOST
+1778726049057,Truemeds,com.intellihealth.truemeds,Undefined,GAINED
+1778727530498,Truemeds,com.intellihealth.truemeds,Undefined,LOST
+1778729910212,Rovo,com.atlassian.android.rovo.core,Productivity,GAINED
+1778730510709,Rovo,com.atlassian.android.rovo.core,Productivity,LOST
+1778733029977,Tata 1mg,com.aranoah.healthkart.plus,Undefined,GAINED
+1778734332817,Tata 1mg,com.aranoah.healthkart.plus,Undefined,LOST
+1778741708220,MakeMyTrip,com.makemytrip,Undefined,GAINED
+1778741714081,MakeMyTrip,com.makemytrip,Undefined,LOST
+1778750140790,Blinkit,com.grofers.customerapp,Undefined,GAINED
+1778750433946,Blinkit,com.grofers.customerapp,Undefined,LOST
+1778750681057,FM Radio,com.android.fmradio,Undefined,GAINED
+1778752158375,FM Radio,com.android.fmradio,Undefined,LOST
+1778753116905,Cognizant TalRight Recruit,com.talview.recruit.cognizant,Productivity,GAINED
+1778754710700,Cognizant TalRight Recruit,com.talview.recruit.cognizant,Productivity,LOST
+1778764381450,Goibibo,com.goibibo,Undefined,GAINED
+1778765098062,Goibibo,com.goibibo,Undefined,LOST
+1778767958555,Photos,com.google.android.apps.photos,Image,GAINED
+1778768487719,Photos,com.google.android.apps.photos,Image,LOST
+1778778487777,Axis Mobile,com.axis.mobile,Productivity,GAINED
+1778779456252,Axis Mobile,com.axis.mobile,Productivity,LOST

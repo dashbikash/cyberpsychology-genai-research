@@ -1,0 +1,27 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1778437800000,Meet,com.google.android.apps.tachyon,Social,GAINED
+1778438250350,Meet,com.google.android.apps.tachyon,Social,LOST
+1778447730772,Recorder,com.coloros.soundrecorder,Undefined,GAINED
+1778448987997,Recorder,com.coloros.soundrecorder,Undefined,LOST
+1778449648732,Discord,com.discord,Social,GAINED
+1778449853715,Discord,com.discord,Social,LOST
+1778459234001,Arattai,com.aratai.chat,Social,GAINED
+1778460263015,Arattai,com.aratai.chat,Social,LOST
+1778461532821,Keep notes,com.google.android.keep,Productivity,GAINED
+1778462695754,Keep notes,com.google.android.keep,Productivity,LOST
+1778471781146,Brave,com.brave.browser,Social,GAINED
+1778473436210,Brave,com.brave.browser,Social,LOST
+1778478699521,Brave,com.brave.browser,Social,GAINED
+1778479723971,Brave,com.brave.browser,Social,LOST
+1778489903490,AWS Console,com.amazon.aws.console.mobile,Productivity,GAINED
+1778490626245,AWS Console,com.amazon.aws.console.mobile,Productivity,LOST
+1778497718692,Photos,com.coloros.gallery3d,Undefined,GAINED
+1778498180410,Photos,com.coloros.gallery3d,Undefined,LOST
+1778505802352,Excel,com.microsoft.office.excel,Productivity,GAINED
+1778507503820,Excel,com.microsoft.office.excel,Productivity,LOST
+1778518213459,Excel,com.microsoft.office.excel,Productivity,GAINED
+1778518243077,Excel,com.microsoft.office.excel,Productivity,LOST
+1778518915773,NotebookLM,com.google.android.apps.labs.language.tailwind,Productivity,GAINED
+1778519086443,NotebookLM,com.google.android.apps.labs.language.tailwind,Productivity,LOST
+1778520611569,MakeMyTrip,com.makemytrip,Undefined,GAINED
+1778521613362,MakeMyTrip,com.makemytrip,Undefined,LOST

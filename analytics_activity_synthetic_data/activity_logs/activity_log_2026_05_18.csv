@@ -1,0 +1,37 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1779042600000,Ola,com.olacabs.customer,Maps,GAINED
+1779042858880,Ola,com.olacabs.customer,Maps,LOST
+1779044573679,Chat,com.google.android.apps.dynamite,Productivity,GAINED
+1779045457055,Chat,com.google.android.apps.dynamite,Productivity,LOST
+1779048586144,My Context,me.dashbikash.dashvpnservice,Undefined,GAINED
+1779049700707,My Context,me.dashbikash.dashvpnservice,Undefined,LOST
+1779056086296,Videos (System),com.coloros.video,Undefined,GAINED
+1779057054450,Videos (System),com.coloros.video,Undefined,LOST
+1779064718094,YONO SBI,com.sbi.lotusintouch,Productivity,GAINED
+1779065951593,YONO SBI,com.sbi.lotusintouch,Productivity,LOST
+1779068025992,Rapido,com.rapido.passenger,Maps,GAINED
+1779068729722,Rapido,com.rapido.passenger,Maps,LOST
+1779069483128,Camera,com.oplus.camera,Undefined,GAINED
+1779069564762,Camera,com.oplus.camera,Undefined,LOST
+1779074580463,WhatsApp,com.whatsapp,Social,GAINED
+1779076379621,WhatsApp,com.whatsapp,Social,LOST
+1779079599963,Tata 1mg,com.aranoah.healthkart.plus,Undefined,GAINED
+1779081025620,Tata 1mg,com.aranoah.healthkart.plus,Undefined,LOST
+1779088442313,JioCinema,com.jio.media.ondemand,Undefined,GAINED
+1779089383823,JioCinema,com.jio.media.ondemand,Undefined,LOST
+1779092113145,gCMOB,com.mm.android.direct.g_CMOB_XU,Productivity,GAINED
+1779093719051,gCMOB,com.mm.android.direct.g_CMOB_XU,Productivity,LOST
+1779094478960,Brave,com.brave.browser,Social,GAINED
+1779096136745,Brave,com.brave.browser,Social,LOST
+1779096806670,Axis Mobile,com.axis.mobile,Productivity,GAINED
+1779097419773,Axis Mobile,com.axis.mobile,Productivity,LOST
+1779098651394,Chrome,com.android.chrome,Undefined,GAINED
+1779099360884,Chrome,com.android.chrome,Undefined,LOST
+1779107392412,Truemeds,com.intellihealth.truemeds,Undefined,GAINED
+1779107745393,Truemeds,com.intellihealth.truemeds,Undefined,LOST
+1779113568045,HDFC Bank App,com.hdfcbank.android.now,Productivity,GAINED
+1779113880135,HDFC Bank App,com.hdfcbank.android.now,Productivity,LOST
+1779119250398,Chat,com.google.android.apps.dynamite,Productivity,GAINED
+1779120055437,Chat,com.google.android.apps.dynamite,Productivity,LOST
+1779128607102,Amazon,in.amazon.mShop.android.shopping,Undefined,GAINED
+1779128999000,Amazon,in.amazon.mShop.android.shopping,Undefined,LOST

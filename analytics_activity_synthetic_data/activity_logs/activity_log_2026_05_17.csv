@@ -1,0 +1,35 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1778956200000,Videos (System),com.coloros.video,Undefined,GAINED
+1778956241953,Videos (System),com.coloros.video,Undefined,LOST
+1778965963345,Messages,com.android.mms,Undefined,GAINED
+1778966730678,Messages,com.android.mms,Undefined,LOST
+1778969946649,Proton Mail,ch.protonmail.android,Social,GAINED
+1778971107151,Proton Mail,ch.protonmail.android,Social,LOST
+1778977438079,BOI Mobile,com.boi.ua.android,Productivity,GAINED
+1778978513876,BOI Mobile,com.boi.ua.android,Productivity,LOST
+1778981093535,BOI Mobile,com.boi.ua.android,Productivity,GAINED
+1778982256232,BOI Mobile,com.boi.ua.android,Productivity,LOST
+1778990184876,WhatsApp,com.whatsapp,Social,GAINED
+1778990212677,WhatsApp,com.whatsapp,Social,LOST
+1778994631377,Phone,com.google.android.dialer,Productivity,GAINED
+1778994786275,Phone,com.google.android.dialer,Productivity,LOST
+1779001479819,YouTube,com.google.android.youtube,Video,GAINED
+1779002841420,YouTube,com.google.android.youtube,Video,LOST
+1779003073602,Files by Google,com.google.android.apps.nbu.files,Productivity,GAINED
+1779004373710,Files by Google,com.google.android.apps.nbu.files,Productivity,LOST
+1779005050163,Settings,com.android.settings,Undefined,GAINED
+1779005814208,Settings,com.android.settings,Undefined,LOST
+1779005907120,Authenticator,com.azure.authenticator,Productivity,GAINED
+1779006841035,Authenticator,com.azure.authenticator,Productivity,LOST
+1779013957644,Clock,com.coloros.alarmclock,Undefined,GAINED
+1779014855965,Clock,com.coloros.alarmclock,Undefined,LOST
+1779022861181,JioHotstar,in.startv.hotstar,Undefined,GAINED
+1779023472826,JioHotstar,in.startv.hotstar,Undefined,LOST
+1779025723791,Chat,com.google.android.apps.dynamite,Productivity,GAINED
+1779027211133,Chat,com.google.android.apps.dynamite,Productivity,LOST
+1779031571170,HDFC Bank,com.snapwork.hdfc,Productivity,GAINED
+1779032733812,HDFC Bank,com.snapwork.hdfc,Productivity,LOST
+1779033291883,My Context,me.dashbikash.dashvpnservice,Undefined,GAINED
+1779034814727,My Context,me.dashbikash.dashvpnservice,Undefined,LOST
+1779041385512,FM Radio,com.android.fmradio,Undefined,GAINED
+1779042599000,FM Radio,com.android.fmradio,Undefined,LOST

@@ -1,0 +1,31 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1779474600000,super.money,money.super.payments,Productivity,GAINED
+1779475594962,super.money,money.super.payments,Productivity,LOST
+1779479504955,Tata 1mg,com.aranoah.healthkart.plus,Undefined,GAINED
+1779480345314,Tata 1mg,com.aranoah.healthkart.plus,Undefined,LOST
+1779489471013,Expo Go,host.exp.exponent,Undefined,GAINED
+1779490660324,Expo Go,host.exp.exponent,Undefined,LOST
+1779500074971,Slides,com.google.android.apps.docs.editors.slides,Productivity,GAINED
+1779500862189,Slides,com.google.android.apps.docs.editors.slides,Productivity,LOST
+1779501581161,Calculator,com.coloros.calculator,Undefined,GAINED
+1779501881848,Calculator,com.coloros.calculator,Undefined,LOST
+1779508427396,Discord,com.discord,Social,GAINED
+1779510199406,Discord,com.discord,Social,LOST
+1779510699177,Telegram,org.telegram.messenger,Social,GAINED
+1779512349726,Telegram,org.telegram.messenger,Social,LOST
+1779523020000,Meet,com.google.android.apps.tachyon,Social,GAINED
+1779523468064,Meet,com.google.android.apps.tachyon,Social,LOST
+1779533223520,SumTotal,com.sumtotal.mobileapp,Productivity,GAINED
+1779534966283,SumTotal,com.sumtotal.mobileapp,Productivity,LOST
+1779536889342,Uber,com.ubercab,Maps,GAINED
+1779538235040,Uber,com.ubercab,Maps,LOST
+1779538690148,Drive,com.google.android.apps.docs,Productivity,GAINED
+1779539227404,Drive,com.google.android.apps.docs,Productivity,LOST
+1779541791529,Ama Bus,com.chalo.crut,Maps,GAINED
+1779542124399,Ama Bus,com.chalo.crut,Maps,LOST
+1779542993465,Rapido,com.rapido.passenger,Maps,GAINED
+1779544656598,Rapido,com.rapido.passenger,Maps,LOST
+1779547949251,YouTube,com.google.android.youtube,Video,GAINED
+1779549041427,YouTube,com.google.android.youtube,Video,LOST
+1779559717121,Telegram,org.telegram.messenger,Social,GAINED
+1779559800000,Telegram,org.telegram.messenger,Social,LOST

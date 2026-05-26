@@ -1,0 +1,29 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1778783400000,Brave,com.brave.browser,Social,GAINED
+1778784094567,Brave,com.brave.browser,Social,LOST
+1778791315802,Recorder,com.coloros.soundrecorder,Undefined,GAINED
+1778791552519,Recorder,com.coloros.soundrecorder,Undefined,LOST
+1778799512628,Hill Climb Racing 2,com.fingersoft.hcr2,Game,GAINED
+1778800602512,Hill Climb Racing 2,com.fingersoft.hcr2,Game,LOST
+1778806144404,MyJio,com.jio.myjio,Productivity,GAINED
+1778807629527,MyJio,com.jio.myjio,Productivity,LOST
+1778809866662,Amazon,in.amazon.mShop.android.shopping,Undefined,GAINED
+1778810288034,Amazon,in.amazon.mShop.android.shopping,Undefined,LOST
+1778812055809,Excel,com.microsoft.office.excel,Productivity,GAINED
+1778812563551,Excel,com.microsoft.office.excel,Productivity,LOST
+1778812735141,Ama Bus,com.chalo.crut,Maps,GAINED
+1778814448594,Ama Bus,com.chalo.crut,Maps,LOST
+1778818456176,SuperVPN Pro,com.jrzheng.supervpnpayment,Productivity,GAINED
+1778818914520,SuperVPN Pro,com.jrzheng.supervpnpayment,Productivity,LOST
+1778828186245,Chrome,com.android.chrome,Undefined,GAINED
+1778828973384,Chrome,com.android.chrome,Undefined,LOST
+1778837579215,Spotify,com.spotify.music,Audio,GAINED
+1778837917331,Spotify,com.spotify.music,Audio,LOST
+1778840176949,YONO SBI,com.sbi.lotusintouch,Productivity,GAINED
+1778841612371,YONO SBI,com.sbi.lotusintouch,Productivity,LOST
+1778852386426,Union ease,com.infrasoft.uboi,Productivity,GAINED
+1778853139134,Union ease,com.infrasoft.uboi,Productivity,LOST
+1778853649015,Amazon,in.amazon.mShop.android.shopping,Undefined,GAINED
+1778855330733,Amazon,in.amazon.mShop.android.shopping,Undefined,LOST
+1778860365371,Chat,com.google.android.apps.dynamite,Productivity,GAINED
+1778860435190,Chat,com.google.android.apps.dynamite,Productivity,LOST

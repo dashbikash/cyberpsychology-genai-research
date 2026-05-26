@@ -1,0 +1,29 @@
+TIMESTAMP,APP_NAME,APP_PACKAGE,APP_CATEGORY,FOCUS_TYPE
+1779388200000,HDFC Bank,com.snapwork.hdfc,Productivity,GAINED
+1779389897109,HDFC Bank,com.snapwork.hdfc,Productivity,LOST
+1779391274683,Contacts,com.google.android.contacts,Social,GAINED
+1779392847486,Contacts,com.google.android.contacts,Social,LOST
+1779398240272,Chat,com.google.android.apps.dynamite,Productivity,GAINED
+1779398376489,Chat,com.google.android.apps.dynamite,Productivity,LOST
+1779400477077,Chat,com.google.android.apps.dynamite,Productivity,GAINED
+1779401971504,Chat,com.google.android.apps.dynamite,Productivity,LOST
+1779405627418,Spotify,com.spotify.music,Audio,GAINED
+1779406601661,Spotify,com.spotify.music,Audio,LOST
+1779409799879,SumTotal,com.sumtotal.mobileapp,Productivity,GAINED
+1779410547079,SumTotal,com.sumtotal.mobileapp,Productivity,LOST
+1779414854983,YONO SBI,com.sbi.lotusintouch,Productivity,GAINED
+1779415082091,YONO SBI,com.sbi.lotusintouch,Productivity,LOST
+1779420597793,Flipkart,com.flipkart.android,Undefined,GAINED
+1779420656117,Flipkart,com.flipkart.android,Undefined,LOST
+1779428146224,super.money,money.super.payments,Productivity,GAINED
+1779429181127,super.money,money.super.payments,Productivity,LOST
+1779438095529,AWS Console,com.amazon.aws.console.mobile,Productivity,GAINED
+1779439804607,AWS Console,com.amazon.aws.console.mobile,Productivity,LOST
+1779448697987,Ola,com.olacabs.customer,Maps,GAINED
+1779449682411,Ola,com.olacabs.customer,Maps,LOST
+1779452651176,WhatsApp,com.whatsapp,Social,GAINED
+1779453883337,WhatsApp,com.whatsapp,Social,LOST
+1779463425280,Authenticator,com.azure.authenticator,Productivity,GAINED
+1779464206511,Authenticator,com.azure.authenticator,Productivity,LOST
+1779473192641,Rovo,com.atlassian.android.rovo.core,Productivity,GAINED
+1779473585030,Rovo,com.atlassian.android.rovo.core,Productivity,LOST
