@@ -1,0 +1,8 @@
+setuptools<82.0.0
+embedchain[milvus]
+llama-index
+llama-index-vector-stores-milvus
+llama-index-llms-openai-like
+llama-index-embeddings-openai-like
+pymilvus    
+llama-parse

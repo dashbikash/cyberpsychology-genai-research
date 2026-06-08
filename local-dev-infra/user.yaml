@@ -1,0 +1,5 @@
+auth: 
+  enableSuperUser: true
+  users:
+    - name: "root"
+      password: "root"

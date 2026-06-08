@@ -1,0 +1,33 @@
+services:
+  llama-server:
+    image: ghcr.io/ggml-org/llama.cpp:server
+    container_name: llama-server
+    ports:
+      - "3000:3000"
+    volumes:
+      - /run/media/bikash/Drive-E/llama-cpp/models:/models
+      - $PWD/llamacpp-cfg:/config
+    environment:
+      - LLAMA_ARG_CONTEXT_SIZE=512
+      - LLAMA_ARG_PORT=3000
+      - LLAMA_ARG_MODELS_DIR=/models
+      - LLAMA_ARG_API_KEY_FILE=/config/api-keys.txt
+      - LLAMA_ARG_WEBUI=false
+      
+  llama-server-embeddings:
+    image: ghcr.io/ggml-org/llama.cpp:server
+    container_name: llama-server-embeddings
+    ports:
+      - "3001:3001"
+    volumes:
+      - /run/media/bikash/Drive-E/llama-cpp/models:/models
+      - $PWD/llamacpp-cfg:/config
+    environment:
+      - LLAMA_ARG_CONTEXT_SIZE=512
+      - LLAMA_ARG_PORT=3001
+      - LLAMA_ARG_MODELS_DIR=/models
+      - LLAMA_ARG_API_KEY_FILE=/config/api-keys.txt
+      - LLAMA_ARG_WEBUI=false
+      - LLAMA_ARG_EMBEDDINGS=true
+      
+      

@@ -73,33 +73,23 @@ export default defineContentScript({
 
         const targetRegex = /bangladesh|pakistan|hindu|muslim|islam|sanatan|hinduism|buddhist|christian|atheist|atheism/i;
         if (targetRegex.test(textContent)) {
-          // Highlight the detected post card with a thick red left border
-          postContainer.style.borderLeft = '6px solid rgba(255, 77, 77, 1)';
+          // Highlight the detected element with a left border
+          if (postContainer instanceof HTMLElement) {
+            // Apply your visual styles
+            postContainer.style.borderLeft = '4px solid rgba(255, 77, 77, 1)';
+            postContainer.style.borderRadius = '10px';
+            postContainer.style.opacity = '0.05';
 
-          // Add a semi-transparent red overlay to the post card if not already added
-          if (!postContainer.querySelector('.detected-overlay')) {
-            const overlay = document.createElement('div');
-            overlay.className = 'detected-overlay';
+            // Disable all mouse clicks and interactions
+            postContainer.style.pointerEvents = 'none';
 
-            // Style the overlay
-            overlay.style.position = 'absolute';
-            overlay.style.top = '0';
-            overlay.style.left = '0';
-            overlay.style.width = '100%';
-            overlay.style.height = '100%';
-            overlay.style.backgroundColor = 'rgba(255, 77, 77, 0.5)'; // 10% opacity red tint
-            overlay.style.pointerEvents = 'none'; // Clicks pass through
-            overlay.style.zIndex = '999';
-            overlay.style.transition = 'opacity 0.3s ease';
+            // Optional: Change the cursor style so the user knows it's unclickable 
+            // Note: Because pointer-events is 'none', you must apply the cursor style 
+            // to a wrapper element if you want it to show up, or leave it as is.
+            postContainer.style.cursor = 'not-allowed';
 
-            // Ensure parent is relative-positioned
-            const currentPosition = window.getComputedStyle(postContainer).position;
-            if (currentPosition === 'static') {
-              postContainer.style.position = 'relative';
-            }
-
-            postContainer.appendChild(overlay);
           }
+          //element.style.display = 'none';
         }
 
 
