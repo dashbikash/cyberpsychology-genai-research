@@ -40,7 +40,7 @@ services:
   #   networks:
   #     - vidur-net
   milvus:
-    image: docker.io/milvusdb/milvus:v2.5.27
+    image: docker.io/milvusdb/milvus:latest
     container_name: milvus
     ports:
       - "19530:19530"
@@ -59,16 +59,16 @@ services:
       - ./embedEtcd.yaml:/milvus/configs/embedEtcd.yaml
       - ./user.yaml:/milvus/configs/user.yaml
 
-  # attu:
-  #   image: zilliz/attu:v2.3.5
-  #   ports:
-  #     - "3000:3000"
-  #   environment:
-  #     - MILVUS_ADDRESS=milvus:19530
-  #   volumes:
-  #     - attu-data:/data
-  #   depends_on:
-  #     - milvus
+  attu:
+    image: zilliz/attu:latest
+    ports:
+      - "3000:3000"
+    environment:
+      - MILVUS_ADDRESS=milvus:19530
+    volumes:
+      - attu-data:/data
+    depends_on:
+      - milvus
 
 volumes:
   milvus-data:

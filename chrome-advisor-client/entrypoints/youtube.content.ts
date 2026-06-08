@@ -32,6 +32,36 @@ export default defineContentScript({
             return false;
         }
 
+        // Helper to guarantee we get a thumbnail URL
+        function getThumbnailUrl(element: Element): string | null {
+            // 1. Try to get the actual image element (checking multiple layout versions)
+            const img = element.querySelector(
+                'yt-thumbnail-view-model .ytThumbnailViewModelImage img, ytd-thumbnail img, yt-image img'
+            ) as HTMLImageElement | null;
+
+            if (img && img.src && img.src.includes('i.ytimg.com')) {
+                return img.src; // Clean hit
+            }
+
+            // 2. LAZY-LOAD FALLBACK: Extract Video ID from the link and build the URL manually
+            const watchLink = element.querySelector('a[href*="/watch?v="]') as HTMLAnchorElement | null;
+            if (watchLink) {
+                try {
+                    // Safely parse the URL to get the 'v' parameter
+                    const urlObj = new URL(watchLink.href, window.location.origin);
+                    const videoId = urlObj.searchParams.get('v');
+                    if (videoId) {
+                        // Return standard YouTube high-res thumbnail path
+                        return `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
+                    }
+                } catch (e) {
+                    console.error("Failed to parse YouTube URL:", e);
+                }
+            }
+
+            return null;
+        }
+
         // 4. Mutation Handling Loop
         const observer = new MutationObserver((mutationsList) => {
             for (const mutation of mutationsList) {
@@ -57,8 +87,27 @@ export default defineContentScript({
                             // Evaluation B: Standard Grid Item
                             if (candidateItem && isStandardVideoCard(candidateItem)) {
                                 const title = candidateItem.querySelector('.ytLockupMetadataViewModelTitle span')?.textContent || 'Unknown Title';
-                                console.log(`🎥 Grid Card Intercepted: "${title}"`, candidateItem);
-                                // Actions...
+
+                                // Use the bulletproof helper function
+                                const thumbnailUrl = getThumbnailUrl(candidateItem);
+
+                                if (thumbnailUrl) {
+                                    console.log(`🖼️ Extracted Thumbnail for "${title.substring(0, 20)}...":`, thumbnailUrl);
+                                } else {
+                                    console.log(`⚠️ Could not extract thumbnail for: "${title}"`);
+                                }
+
+                                // Keyword filtering logic
+                                const visibleText = candidateItem.textContent || '';
+                                const targetRegex = /bangladesh|pakistan|hindu|muslim|islam|sanatan|hinduism|buddhist|christian|atheist|atheism/i;
+
+                                if (targetRegex.test(visibleText) && candidateItem instanceof HTMLElement) {
+                                    candidateItem.style.borderLeft = '4px solid rgba(255, 77, 77, 1)';
+                                    candidateItem.style.borderRadius = '10px';
+                                    candidateItem.style.opacity = '0.05';
+                                    candidateItem.style.pointerEvents = 'none';
+                                    candidateItem.style.cursor = 'not-allowed';
+                                }
                             }
 
                             // Evaluation C: Search Result Video Entry

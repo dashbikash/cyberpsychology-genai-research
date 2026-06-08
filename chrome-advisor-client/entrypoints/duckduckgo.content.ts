@@ -26,7 +26,7 @@ export default defineContentScript({
         if (targetRegex.test(visibleText)) {
           // Highlight the detected element with a left border
           element.style.borderLeft = '4px solid rgba(255, 77, 77, 1)';
-          //element.style.display = 'none';
+          element.style.display = 'none';
         }
 
 

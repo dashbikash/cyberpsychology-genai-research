@@ -34,10 +34,11 @@ def main():
     
     # OpenAI-Compatible API Configuration
     # Replace these with your provider's details (e.g., vLLM, LM Studio, Together, etc.)
-    API_BASE_LLM = "http://localhost:3000/v1" 
+    API_BASE_LLM = "https://api.anthropic.com/v1/" 
     API_BASE_EMBED = "http://localhost:3001/v1" 
-    API_KEY = "ai_K9eWAD9GHNs1lra48bianCeGG7Xtw88g" # Leave as "fake" or "fake-key" if your local endpoint doesn't require one
-    LLM_MODEL_NAME = "Phi-4-mini-instruct-Q4_K_M"
+    API_KEY_EMBED = "ai_K9eWAD9GHNs1lra48bianCeGG7Xtw88g" # Leave as "fake" or "fake-key" if your local endpoint doesn't require one
+    API_KEY_LLM = os.getenv("API_KEY_LLM") # Leave as "fake" or "fake-key" if your local endpoint doesn't require one
+    LLM_MODEL_NAME = "claude-haiku-4-5"
     EMBED_MODEL_NAME = "nomic-embed-text-v2-moe-q8_0"
     EMBED_DIMENSIONS = 768 # Must match the exact dimensions of your chosen embedding model
     
@@ -48,7 +49,7 @@ def main():
     Settings.llm = OpenAILike(
         model=LLM_MODEL_NAME,
         api_base=API_BASE_LLM,
-        api_key=API_KEY,
+        api_key=API_KEY_LLM,
         is_chat_model=True,
         max_tokens=512,
         temperature=0.1
@@ -58,7 +59,7 @@ def main():
     Settings.embed_model = OpenAILikeEmbedding(
         model_name=EMBED_MODEL_NAME,
         api_base=API_BASE_EMBED,
-        api_key=API_KEY,
+        api_key=API_KEY_EMBED,
         # embed_batch_size=10 # Uncomment and reduce if you encounter rate limits
     )
 
@@ -77,7 +78,7 @@ def main():
     index = VectorStoreIndex.from_vector_store(vector_store=vector_store)
 
     query_engine = index.as_query_engine()
-    response = query_engine.query("What is epistimology of sankhya philosophy?")
+    response = query_engine.query("Explain about india")
     print("\nTest Query Response:", response)
 
 if __name__ == "__main__":
